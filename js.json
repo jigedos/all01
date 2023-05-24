@@ -2,11 +2,11 @@
  "sites":[
 {"key":"drpy_js_豆瓣","name":"豆瓣 [搜索]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/all01/main/libs/drpy2.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/all01/main/js/drpy.js"},
 
-{"key":"csp_WoGG","name":"玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/kvymin/TV/raw/branch/master/alitoken.txt"},
+//{"key":"csp_WoGG","name":"玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/kvymin/TV/raw/branch/master/alitoken.txt"},
 
-{"key":"csp_Paper","name":"小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/kvymin/TV/raw/branch/master/alitoken.txt"},
+//{"key":"csp_Paper","name":"小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/kvymin/TV/raw/branch/master/alitoken.txt"},
 
-/{"key":"csp_Dovx","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/kvymin/TV/raw/branch/master/alitoken.txt"},
+//{"key":"csp_Dovx","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/kvymin/TV/raw/branch/master/alitoken.txt"},
 
 //{"key":"drpy_js_360影视","name":"360 [官源]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/all01/main/libs/drpy2.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/all01/main/js/360影视.js"},
 
